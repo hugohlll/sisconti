@@ -1,11 +1,5 @@
-# SISCONTI
+# SISCONT
 Sistema Controle Interno
-------------------------
 
-Objetivo: controle de comissões de fiscalização e recebimento de contratos
+O objetivo inicial do SISCONT é o controle de comissões a partir de um CRUD usando PHP e MySQL. Posteriormente outras funcionalidades podem ser implementadas, como integração com os modelos de documentos para preenchimento de forma rápida e inteligente utilizando uma base de dados completa.
 
-Outras funcionalidades previstas:
-- controle de comissões em geral
-- servir de base para confecção de documentos de rotina de forma automatizada
-
-As primeiras verificações foram feitas no repositório siscont, consulte para saber os detalhes.
